@@ -1,0 +1,21 @@
+1107
+
+北京 -- 明年要出第三个AZ
+
+NACL 黑名单 
+
+S3隐藏区域
+
+CLB 最便宜
+ALB 七层
+NLB 四层，快速响应百万次请求
+
+AMI ： 复制AMI，北京<->宁夏
+
+对等连接：内网沟通
+
+安装 AWS CLI
+使用CLI上传文件到S3
+
+安装AWS CLI
+https://docs.aws.amazon.com/zh_cn/cli/latest/userguide/cli-chap-install.html
